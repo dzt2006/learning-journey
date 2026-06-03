@@ -427,3 +427,26 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+
+# Python项目忽略规则
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+.env
+*.egg-info/
+
+# PyCharm IDE配置忽略
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 数据分析相关忽略
+.ipynb_checkpoints/
+*.pkl
+*.npy
+*.csv.bak
