@@ -8,26 +8,26 @@
 
 ```
 learning-journey
-├── MySQL/                         # MySQL 数据库学习
-│   ├── basic.sql                  #     基础 SQL 练习
+├── MySQL/                          #     MySQL 数据库学习
+│   ├── basic.sql                   #     基础 SQL 练习
 │   ├── mall_综合练习.sql            #     商城综合案例
 │   └── MySQL学习笔记.md             #     笔记索引
 │
 ├── Projects/
-│   └── MingDynasty/               # 大明纪事 —— ASP.NET 历史网站
-│       ├── Page/                  #     前端公开页面
-│       ├── Admin/                 #     后台管理系统
-│       ├── App_Code/              #     数据层 (EF + 模型)
-│       ├── App_Data/              #     数据库脚本
-│       ├── css/ & js/             #     前端静态资源
-│       └── upload/                #     用户上传资源
+│   └── MingDynasty/                #     大明纪事 —— ASP.NET 历史网站
+│       ├── Page/                   #     前端公开页面
+│       ├── Admin/                  #     后台管理系统
+│       ├── App_Code/               #     数据层 (EF + 模型)
+│       ├── App_Data/               #     数据库脚本
+│       ├── css/ & js/              #     前端静态资源
+│       └── upload/                 #     用户上传资源
 │
-├── PyHaven/                       # Python 学习空间
-│   └── Base/                      #     编码练习
-│       ├── Python/                #         语言基础与数据结构
-│       ├── DataAna/               #         数据分析 (NumPy/Pandas/MySQL)
-│       ├── Practice/              #         综合练习
-│       └── Algo/                  #         LeetCode 题解
+├── PyHaven/                        #     Python 学习空间
+│   └── Base/                       #     编码练习
+│       ├── Python/                 #     语言基础与数据结构
+│       ├── DataAna/                #     数据分析 (NumPy/Pandas/MySQL)
+│       ├── Practice/               #     综合练习
+│       └── Algo/                   #     LeetCode 题解
 ```
 
 ---
