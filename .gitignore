@@ -450,3 +450,9 @@ venv/
 *.pkl
 *.npy
 *.csv.bak
+
+# Obsidian 配置目录
+**/.obsidian/
+
+# Claude Code 配置目录
+**/.claude/
